@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zvIwKmam)
 # Python Refresher Exercises
 
 ## 🔍 Overview
@@ -95,21 +96,26 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+Python Basics: The exercises were a great way to revisit fundamental Python concepts, such as loops, conditionals, and working with functions.
+Libraries: I refreshed my understanding of numpy for numerical operations and string manipulations.
+Jupyter Notebooks: Working with .ipynb files reminded me of the power of interactive coding and debugging.
+Error Handling: The extra credit exercise challenged me to implement robust error handling using ValueError..
+
 
 **I struggled with:** (repeat as needed)
-- .
+- Setting up the environment with Poetry and Jupyter took some time due to configuration issues, but resolving these deepened my understanding of managing Python environments.
+Debugging kernel errors and ensuring all tests passed was tricky but rewarding.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Automate the environment setup process to save time during initial configurations.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+2 hours, there were a few confiigurations and kernel issues which i faced, which took a lot of time for me to fix.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- do it, but would be able to do it quicker.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 --------------------
 ## 📚 References and Citations
